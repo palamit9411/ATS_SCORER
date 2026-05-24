@@ -1,0 +1,67 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Datasets
+*.csv
+*.xlsx
+*.xls
+
+# Logs
+*.log
+
+# ML models
+*.safetensors
+*.pkl
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Node modules
+node_modules/
+
+# Temporary files
+temp/
+tmp/
+
+# Database
+*.db
+*.sqlite3
+
+# Generated images/videos
+outputs/
+results/
+
+# System files
+*.swp
+*.bak
