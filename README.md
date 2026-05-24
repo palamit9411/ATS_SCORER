@@ -24,8 +24,6 @@ A web app that scores how well a resume matches a job description and returns ac
 ATS_SCORER/
 ├── backend/              FastAPI app, NLP services, API routes
 ├── frontend/             Streamlit app, views, components
-├── jupyter notebooks/    Research and dataset prep (not used at runtime)
-├── ml model/             Exported ML artifacts
 ├── requirements.txt      Combined backend + frontend dependencies
 └── .env.example          Template for environment variables
 ```
